@@ -1,12 +1,8 @@
 ## Hi there 👋
 
-<!--
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/83074461?s=400&u=367a47fdd3776558ed199f18f4d8ac53dcf163b3&v=4" alt="VAGASDUOSTUDIO" width="230" />
+</p>
 
-**Here are some ideas to get you started:**
+Somos uma agência digital, criamos projetos mobile, aplicativos, marketing digital e websites. Especialista em design para inovação, priorizamos aplicações com otimização em usabilidade e desenvolvimento. Curte o que a gente anda fazendo, role nosso site.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
